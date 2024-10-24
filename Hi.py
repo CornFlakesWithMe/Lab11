@@ -1,12 +1,12 @@
 import random
 
 # Generate a random integer between 1 and 10 (inclusive)
-random_int = random.randint(1, 10)
-print("Random integer:", random_int)
+#random_int = random.randint(1, 10)
+#print("Random integer:", random_int)
 
 # Generate a random float between 0 and 1 (exclusive)
-random_float = random.random()
-print("Random float:", random_float)
+#random_float = random.random()
+#print("Random float:", random_float)
 
 # Choose a random element from a list
 fruits = ["apple", "banana", "cherry", "orange"]
